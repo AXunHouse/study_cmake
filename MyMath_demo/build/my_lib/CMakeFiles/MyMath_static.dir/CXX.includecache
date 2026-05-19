@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/axun/study_linux/study_cmake/MyMath_demo/my_lib/src/add.cpp
+
+/home/axun/study_linux/study_cmake/MyMath_demo/my_lib/src/sub.cpp
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libWU_Myth.a  CMakeFiles/WU_Myth.dir/src/add.cpp.o CMakeFiles/WU_Myth.dir/src/sub.cpp.o
+/usr/bin/ranlib ../lib/libWU_Myth.a

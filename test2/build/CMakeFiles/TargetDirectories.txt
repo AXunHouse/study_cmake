@@ -1,0 +1,3 @@
+/home/axun/study_linux/study_cmake/test2/build/CMakeFiles/rebuild_cache.dir
+/home/axun/study_linux/study_cmake/test2/build/CMakeFiles/edit_cache.dir
+/home/axun/study_linux/study_cmake/test2/build/CMakeFiles/main.dir

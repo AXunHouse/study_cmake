@@ -1,0 +1,14 @@
+/home/axun/study_linux/study_cmake/MyMath_demo/build/CMakeFiles/install/strip.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/CMakeFiles/install/local.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/CMakeFiles/install.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/CMakeFiles/list_install_components.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/CMakeFiles/rebuild_cache.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/CMakeFiles/edit_cache.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/install/strip.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/install/local.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/install.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/list_install_components.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/rebuild_cache.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/edit_cache.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/MyMath_shared.dir
+/home/axun/study_linux/study_cmake/MyMath_demo/build/my_lib/CMakeFiles/MyMath_static.dir

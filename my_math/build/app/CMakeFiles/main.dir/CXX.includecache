@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/axun/study_linux/study_cmake/my_math/app/main.cpp
+iostream
+-
+../my_lib/include/MyMath.h
+/home/axun/study_linux/study_cmake/my_math/my_lib/include/MyMath.h
+
+/home/axun/study_linux/study_cmake/my_math/my_lib/include/MyMath.h
+
