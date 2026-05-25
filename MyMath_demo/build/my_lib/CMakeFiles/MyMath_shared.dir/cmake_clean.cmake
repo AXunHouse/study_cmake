@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
   "../lib/libMyMath.pdb"
   "../lib/libMyMath.so"
-  "../lib/libMyMath.so.35"
-  "CMakeFiles/MyMath_shared.dir/src/add.cpp.o"
-  "CMakeFiles/MyMath_shared.dir/src/sub.cpp.o"
+  "../lib/libMyMath.so.5"
+  "../lib/libMyMath.so.5.5.5"
 )
 
 # Per-language clean rules from dependency scanning.

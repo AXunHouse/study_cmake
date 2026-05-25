@@ -23,7 +23,7 @@ macro(check_required_components _NAME)
 endmacro()
 
 ####################################################################################
+
 include(${CMAKE_CURRENT_LIST_DIR}/MyMathTargets.cmake)
 
-add_library(MyMath::MyMath INTERFACE IMPORTED)
-target_link_libraries(MyMath::MyMath INTERFACE MyMath::MyMath_shared)
+check_required_components(MyMath)

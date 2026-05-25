@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libMyMath.so.35 -o ../lib/libMyMath.so.35 CMakeFiles/MyMath_shared.dir/src/add.cpp.o CMakeFiles/MyMath_shared.dir/src/sub.cpp.o 
+/bin/c++ -fPIC -shared -Wl,-soname,libMyMath.so.5 -o ../lib/libMyMath.so.5.5.5 CMakeFiles/MyMath_obj.dir/src/add.cpp.o CMakeFiles/MyMath_obj.dir/src/sub.cpp.o 

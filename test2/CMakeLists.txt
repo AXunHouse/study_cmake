@@ -12,4 +12,5 @@ set_target_properties(main PROPERTIES
 
 find_package(MyMath REQUIRED CONFIG)
 
-target_link_libraries(main PRIVATE MyMath::MyMath)
+#target_link_libraries(main PRIVATE MyMath::MyMath)
+target_link_libraries(main PRIVATE MyMath::MyMath-static)
